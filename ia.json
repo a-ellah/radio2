@@ -1,19 +1,11 @@
 [
   {
-    "stationuuid": "cora",
-    "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
-    "url_resolved": "http://s2.voscast.com:12312/;",
-    "tags": "Radio Algeria",
-    "country": "Algeria",
-    "favicon": "https://raw.githubusercontent.com/a-ellah/a/refs/heads/main/radio/cora.png"
-  },
-  {
     "id": "cha1",
     "name": "Radio chaine 1 الإذاعــة الأولى",
     "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cha1.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/cha1.jpg"
   },
   {
     "id": "cha2",
@@ -21,7 +13,7 @@
     "url": "https://radiochaine2.ice.infomaniak.ch/chaine2.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cha2.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/cha2.jpg"
   },
   {
     "id": "cha3",
@@ -29,7 +21,7 @@
     "url": "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cha3.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/cha3.jpg"
   },
   {
     "id": "inte",
@@ -37,7 +29,7 @@
     "url": "https://radiointernationale.ice.infomaniak.ch/internationale.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/inte.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/inte.jpg"
   },
   {
     "id": "qran",
@@ -45,7 +37,7 @@
     "url": "https://radiocoran.ice.infomaniak.ch/coran.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/qran.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/qran.jpg"
   },
   {
     "id": "cora",
@@ -53,7 +45,7 @@
     "url": "http://s2.voscast.com:12312/;",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cora.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/cora.jpg"
   },
   {
     "id": "corr",
@@ -61,7 +53,7 @@
     "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/corr.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/corr.jpg"
   },
   {
     "id": "qorr",
@@ -69,7 +61,7 @@
     "url": "http://listen.qkradio.com.au:8382/listen.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/qorr.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/qorr.jpg"
   },
   {
     "id": "qooo",
@@ -77,7 +69,7 @@
     "url": "http://104.7.66.64:8095/;?icy=http",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/qooo.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/qooo.jpg"
   },
   {
     "id": "cult",
@@ -85,7 +77,7 @@
     "url": "https://radioculture.ice.infomaniak.ch/culture.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/cult.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/cult.jpg"
   },
   {
     "id": "bahd",
@@ -93,7 +85,7 @@
     "url": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/bahd.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/bahd.jpg"
   },
   {
     "id": "orie",
@@ -101,7 +93,7 @@
     "url": "https://n12.rcs.revma.com/7hnrkawf4p8uv.mp3?rj-ttl=5&rj-tok=AAABme78K4QAHnTdCFbSGTGO4Q",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/orie.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/orie.jpg"
   },
   {
     "id": "magh",
@@ -109,7 +101,7 @@
     "url": "http://mgharba.ice.infomaniak.ch/mgharba-128.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/magh.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/magh.jpg"
   },
   {
     "id": "tara",
@@ -117,7 +109,7 @@
     "url": "https://streamer.mada.ps:8201/tarab",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/tara.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/tara.jpg"
   },
   {
     "id": "dzai",
@@ -125,7 +117,7 @@
     "url": "https://stream-155.zeno.fm/xa4yhh4k838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YTR5aGg0azgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZDb3c2TF9CUmZPM3pjYkxwWnk4UXciLCJpYXQiOjE3NjA2NTE3ODksImV4cCI6MTc2MDY1MTg0OX0.gMirXLGwZB9g9JNsn5EORcyjfc1em7CuoJMkKlN_F70&adtonosListenerId=01H0QN7N0FWX24VBHTFRG8BQWH&amb-uid=3898065775428749197&an-uid=0&aw_0_req_lsid=a577bf4b67647738ae1c2364893d5cad&dot-uid=0ab2220300c5665293f3e767&triton-uid=cookie%3A26424d7d-26e2-4560-a3ef-c11d253ab62c",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/dzai.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/dzai.jpg"
   },
   {
     "id": "chaa",
@@ -133,7 +125,7 @@
     "url": "https://stream-179.zeno.fm/y9rchc1djgavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ5OXJjaGMxZGpnYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im5wTXFGbG5BU2VPWFloeGZIZTRNTUEiLCJpYXQiOjE3NjA2NTE3MzgsImV4cCI6MTc2MDY1MTc5OH0.PWT0dyzDzbGj_19AG8BIjMfql5tvig0ajC9uQYOHoPw",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/chaa.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/chaa.jpg"
   },
   {
     "id": "aure",
@@ -141,7 +133,7 @@
     "url": "https://radiodzair.net:8050/aures?shoutcast",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/aure.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/aure.jpg"
   },
   {
     "id": "anda",
@@ -149,7 +141,7 @@
     "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/anda.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/anda.jpg"
   },
   {
     "id": "saha",
@@ -157,7 +149,7 @@
     "url": "https://radiodzair.net:8040/sahara?shoutcast",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/saha.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/saha.jpg"
   },
   {
     "id": "izur",
@@ -165,7 +157,7 @@
     "url": "https://radiodzair.net:8030/izuran?shoutcast",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/izur.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/izur.jpg"
   },
   {
     "id": "jowr",
@@ -173,7 +165,7 @@
     "url": "https://stream-157.zeno.fm/qgw73bqh5qruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxZ3c3M2JxaDVxcnV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9aRUZDOXRpUnd1TmxJMGFkMlotd2ciLCJpYXQiOjE3NjA2NTAzMDYsImV4cCI6MTc2MDY1MDM2Nn0.f_5oPI9sOfl9jvLiFTAGtuNVgLwfka804u3ysig6KeU",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/jowr.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/jowr.jpg"
   },
   {
     "id": "joww",
@@ -181,7 +173,7 @@
     "url": "https://onlyrai.ice.infomaniak.ch/onlyrai-high.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/joww.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/joww.jpg"
   },
   {
     "id": "jile",
@@ -189,7 +181,7 @@
     "url": "https://radiojeunesse.ice.infomaniak.ch/jeunesse.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/jile.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/jile.jpg"
   },
   {
     "id": "afri",
@@ -197,7 +189,7 @@
     "url": "https://radiodzair.net:8200/radio.mp3?shoutcast",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/afri.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/afri.jpg"
   },
   {
     "id": "hawa",
@@ -205,7 +197,7 @@
     "url": "https://radio4.pro-fhi.net/radio/9062/stream  ",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/hawa.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/hawa.jpg"
   },
   {
     "id": "rrrr",
@@ -213,7 +205,7 @@
     "url": "http://radior.video.muni.cz:8000/FSS_mp3-128.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/rrrr.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/rrrr.jpg"
   },
   {
     "id": "hits1",
@@ -221,7 +213,7 @@
     "url": "https://hits1-audiomediaradio.radioca.st/hits1",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/hits1.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/hits1.jpg"
   },
   {
     "id": "marina",
@@ -229,7 +221,7 @@
     "url": "https://ffs3.gulfsat.com/MARINA-FM-904/tracks-a1/mono.m3u8",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/marina.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/marina.jpg"
   },
   {
     "id": "alarabiya",
@@ -237,7 +229,7 @@
     "url": "https://fm.alarabiya.net/fm/myStream/chunklist_w1443805311.m3u8",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/alarabiya.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/alarabiya.jpg"
   },
   {
     "id": "aljazeera",
@@ -245,7 +237,7 @@
     "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/aljazeera.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/aljazeera.jpg"
   },
   {
     "id": "asharq",
@@ -253,7 +245,7 @@
     "url": "https://svs.itworkscdn.net/asharqradioalive/asharqradioa/chunks.m3u8",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/asharq.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/asharq.jpg"
   },
   {
     "id": "montecarlo",
@@ -261,7 +253,7 @@
     "url": "https://montecarlodoualiya128k.ice.infomaniak.ch/mc-doualiya.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/montecarlo.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/montecarlo.jpg"
   },
   {
     "id": "jeddah",
@@ -269,7 +261,7 @@
     "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/jeddah.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/jeddah.jpg"
   },
   {
     "id": "sunna",
@@ -277,7 +269,7 @@
     "url": "http://andromeda.shoutca.st:8189/stream",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/sunna.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/sunna.jpg"
   },
   {
     "id": "arabian",
@@ -285,7 +277,7 @@
     "url": "http://s9.yesstreaming.net:7036/stream",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/arabian.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/arabian.jpg"
   },
   {
     "id": "dahab",
@@ -293,7 +285,7 @@
     "url": "https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/dahab.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/dahab.jpg"
   },
   {
     "id": "husna",
@@ -301,7 +293,7 @@
     "url": "https://s2.voscast.com:10445/stream",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/husna.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/husna.jpg"
   },
   {
     "id": "yaqeen",
@@ -309,7 +301,7 @@
     "url": "http://45.63.116.205:8000/stream4",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/yaqeen.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/yaqeen.jpg"
   },
   {
     "id": "allzic",
@@ -317,7 +309,7 @@
     "url": "https://allzic33.ice.infomaniak.ch/allzic33.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/allzic.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/allzic.jpg"
   },
   {
     "id": "amrdiab",
@@ -325,7 +317,7 @@
     "url": "https://stream-153.zeno.fm/xa4yhh4k838uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4YTR5aGg0azgzOHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjRtSGE4Z1l6VDFXMXVhQjhLUVdTbUEiLCJpYXQiOjE3NjIyODIyNDQsImV4cCI6MTc2MjI4MjMwNH0._d7znxUChi5V7x33JIWJsiNWu5mebVAtEggHuI0ixaY&adtonosListenerId=01H0QN7N0FWX24VBHTFRG8BQWH&amb-uid=3898065775428749197&an-uid=0&aw_0_req_lsid=a577bf4b67647738ae1c2364893d5cad&dot-uid=0ab2220300c5665293f3e767&triton-uid=cookie%3A26424d7d-26e2-4560-a3ef-c11d253ab62c",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/amrdiab.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/amrdiab.jpg"
   },
   {
     "id": "beur",
@@ -333,7 +325,7 @@
     "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/beur.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/beur.jpg"
   },
   {
     "id": "boll",
@@ -341,7 +333,7 @@
     "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/boll.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/boll.jpg"
   },
   {
     "id": "hawa",
@@ -349,7 +341,7 @@
     "url": "https://radio7.pro-fhi.net/live/hits1radio  ",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/hawa.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/hawa.jpg"
   },
   {
     "id": "ra01",
@@ -357,7 +349,7 @@
     "url": "https://radioadrar.ice.infomaniak.ch/adrar.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra01.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra01.jpg"
   },
   {
     "id": "ra02",
@@ -365,7 +357,7 @@
     "url": "https://radiochlef.ice.infomaniak.ch/chlef.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra02.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra02.jpg"
   },
   {
     "id": "ra03",
@@ -373,7 +365,7 @@
     "url": "https://radiolaghouat.ice.infomaniak.ch/laghouat.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra03.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra03.jpg"
   },
   {
     "id": "ra04",
@@ -381,7 +373,7 @@
     "url": "https://radiooumbouaghi.ice.infomaniak.ch/oumbouaghi.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra04.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra04.jpg"
   },
   {
     "id": "ra05",
@@ -389,7 +381,7 @@
     "url": "https://radiobatna.ice.infomaniak.ch/batna.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra05.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra05.jpg"
   },
   {
     "id": "ra06",
@@ -397,7 +389,7 @@
     "url": "https://radiobejaia.ice.infomaniak.ch/bejaia.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra06.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra06.jpg"
   },
   {
     "id": "ra07",
@@ -405,7 +397,7 @@
     "url": "https://radiobiskra.ice.infomaniak.ch/biskra.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra07.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra07.jpg"
   },
   {
     "id": "ra08",
@@ -413,7 +405,7 @@
     "url": "https://radiobechar.ice.infomaniak.ch/bechar.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra08.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra08.jpg"
   },
   {
     "id": "ra09",
@@ -421,7 +413,7 @@
     "url": "https://radioblida.ice.infomaniak.ch/blida.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra09.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra09.jpg"
   },
   {
     "id": "ra10",
@@ -429,7 +421,7 @@
     "url": "https://radiobouira.ice.infomaniak.ch/bouira.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra10.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra10.jpg"
   },
   {
     "id": "ra11",
@@ -437,7 +429,7 @@
     "url": "https://radiotamanrasset.ice.infomaniak.ch/tamanrasset.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra11.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra11.jpg"
   },
   {
     "id": "ra12",
@@ -445,7 +437,7 @@
     "url": "https://radiotebessa.ice.infomaniak.ch/tebessa.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra12.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra12.jpg"
   },
   {
     "id": "ra13",
@@ -453,7 +445,7 @@
     "url": "https://radiotlemcen.ice.infomaniak.ch/tlemcen.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra13.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra13.jpg"
   },
   {
     "id": "ra14",
@@ -461,7 +453,7 @@
     "url": "https://radiotiaret.ice.infomaniak.ch/tiaret.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra14.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra14.jpg"
   },
   {
     "id": "ra15",
@@ -469,7 +461,7 @@
     "url": "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra15.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra15.jpg"
   },
   {
     "id": "ra16",
@@ -477,7 +469,7 @@
     "url": "https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra16.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra16.jpg"
   },
   {
     "id": "ra17",
@@ -485,7 +477,7 @@
     "url": "https://radiodjelfa.ice.infomaniak.ch/djelfa.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra17.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra17.jpg"
   },
   {
     "id": "ra18",
@@ -493,7 +485,7 @@
     "url": "https://radiojijel.ice.infomaniak.ch/jijel.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra18.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra18.jpg"
   },
   {
     "id": "ra19",
@@ -501,7 +493,7 @@
     "url": "https://radiosetif.ice.infomaniak.ch/setif.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra19.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra19.jpg"
   },
   {
     "id": "ra20",
@@ -509,7 +501,7 @@
     "url": "https://radiosaida.ice.infomaniak.ch/saida.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra20.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra20.jpg"
   },
   {
     "id": "ra21",
@@ -517,7 +509,7 @@
     "url": "https://radioskikda.ice.infomaniak.ch/skikda.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra21.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra21.jpg"
   },
   {
     "id": "ra22",
@@ -525,7 +517,7 @@
     "url": "https://radiosidibelabes.ice.infomaniak.ch/sidibelabes.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra22.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra22.jpg"
   },
   {
     "id": "ra23",
@@ -533,7 +525,7 @@
     "url": "https://radioannaba.ice.infomaniak.ch/annaba.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra23.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra23.jpg"
   },
   {
     "id": "ra24",
@@ -541,7 +533,7 @@
     "url": "https://radioguelma.ice.infomaniak.ch/guelma.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra24.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra24.jpg"
   },
   {
     "id": "ra25",
@@ -549,7 +541,7 @@
     "url": "https://radioconstantine.ice.infomaniak.ch/constantine.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra25.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra25.jpg"
   },
   {
     "id": "ra26",
@@ -557,7 +549,7 @@
     "url": "https://radiomedea.ice.infomaniak.ch/medea.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra26.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra26.jpg"
   },
   {
     "id": "ra27",
@@ -565,7 +557,7 @@
     "url": "https://radiomostaganem.ice.infomaniak.ch/mostaganem.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra27.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra27.jpg"
   },
   {
     "id": "ra28",
@@ -573,7 +565,7 @@
     "url": "https://radiomsila.ice.infomaniak.ch/msila.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra28.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra28.jpg"
   },
   {
     "id": "ra29",
@@ -581,7 +573,7 @@
     "url": "https://radiomascara.ice.infomaniak.ch/mascara.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra29.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra29.jpg"
   },
   {
     "id": "ra30",
@@ -589,7 +581,7 @@
     "url": "https://radioouargla.ice.infomaniak.ch/ouargla.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra30.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra30.jpg"
   },
   {
     "id": "ra31",
@@ -597,7 +589,7 @@
     "url": "https://radiooran.ice.infomaniak.ch/oran.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra31.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra31.jpg"
   },
   {
     "id": "ra32",
@@ -605,7 +597,7 @@
     "url": "https://radioelbayedh.ice.infomaniak.ch/elbayedh.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra32.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra32.jpg"
   },
   {
     "id": "ra33",
@@ -613,7 +605,7 @@
     "url": "https://radioillizi.ice.infomaniak.ch/illizi.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra33.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra33.jpg"
   },
   {
     "id": "ra34",
@@ -621,7 +613,7 @@
     "url": "https://radiobordjbouarreridj.ice.infomaniak.ch/bordjbouarreridj.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra34.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra34.jpg"
   },
   {
     "id": "ra35",
@@ -629,7 +621,7 @@
     "url": "https://radioboumerdes.ice.infomaniak.ch/boumerdes.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra35.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra35.jpg"
   },
   {
     "id": "ra36",
@@ -637,7 +629,7 @@
     "url": "https://radiotaref.ice.infomaniak.ch/taref.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra36.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra36.jpg"
   },
   {
     "id": "ra37",
@@ -645,7 +637,7 @@
     "url": "https://radiotindouf.ice.infomaniak.ch/tindouf.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra37.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra37.jpg"
   },
   {
     "id": "ra38",
@@ -653,7 +645,7 @@
     "url": "https://radiotissemssilt.ice.infomaniak.ch/tissemssilt.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra38.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra38.jpg"
   },
   {
     "id": "ra39",
@@ -661,7 +653,7 @@
     "url": "https://radiouedsouf.ice.infomaniak.ch/ouedsouf.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra39.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra39.jpg"
   },
   {
     "id": "ra40",
@@ -669,7 +661,7 @@
     "url": "https://radiokhenchela.ice.infomaniak.ch/khenchela.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra40.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra40.jpg"
   },
   {
     "id": "ra41",
@@ -677,7 +669,7 @@
     "url": "https://radiosoukahras.ice.infomaniak.ch/soukahras.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra41.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra41.jpg"
   },
   {
     "id": "ra42",
@@ -685,7 +677,7 @@
     "url": "https://radiotipaza.ice.infomaniak.ch/tipaza.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra42.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra42.jpg"
   },
   {
     "id": "ra43",
@@ -693,7 +685,7 @@
     "url": "https://radiomila.ice.infomaniak.ch/mila.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra43.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra43.jpg"
   },
   {
     "id": "ra44",
@@ -701,7 +693,7 @@
     "url": "https://radioaindefla.ice.infomaniak.ch/aindefla.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra44.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra44.jpg"
   },
   {
     "id": "ra45",
@@ -709,7 +701,7 @@
     "url": "https://radionaama.ice.infomaniak.ch/naama.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra45.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra45.jpg"
   },
   {
     "id": "ra46",
@@ -717,7 +709,7 @@
     "url": "https://radioaintimouchent.ice.infomaniak.ch/aintimouchent.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra46.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra46.jpg"
   },
   {
     "id": "ra47",
@@ -725,7 +717,7 @@
     "url": "https://radioghardaia.ice.infomaniak.ch/ghardaia.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra47.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra47.jpg"
   },
   {
     "id": "ra48",
@@ -733,6 +725,6 @@
     "url": "https://radiorelizan.ice.infomaniak.ch/relizan.mp3",
     "title": "Radio Algeria",
     "country": "Algeria",
-    "icon": "https://raw.githubusercontent.com/aellahan/ar/refs/heads/main/icon/ra48.jpg"
+    "icon": "https://raw.githubusercontent.com/a-ellah/radio2/refs/heads/main/icon/ra48.jpg"
   }
 ]
