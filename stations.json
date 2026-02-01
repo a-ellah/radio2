@@ -10,7 +10,7 @@
     "updated_at": "2025-10-16T06:59:28.000000Z",
     "channels": [
       {
-        "id": 4,
+        "id": 1,
         "station_id": 1,
         "name": "103.7",
         "slug": "103-7",
@@ -23,8 +23,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "cha1",
-        "station_id": "cha1",
+        "id": 2,
+        "station_id": 2,
         "name": "Radio chaine 1 الإذاعــة الأولى",
         "slug": "103-7",
         "order": 1,
@@ -38,8 +38,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "cha2",
-        "station_id": "cha2",
+        "id": 3,
+        "station_id": 3,
         "name": "Radio chaine 2 الإذاعــة الثانية",
         "slug": "103-7",
         "order": 1,
@@ -53,8 +53,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "cha3",
-        "station_id": "cha3",
+        "id": 4,
+        "station_id": 4,
         "name": "Radio chaine 3 الإذاعــة الثالثة",
         "slug": "103-7",
         "order": 1,
@@ -68,8 +68,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "inte",
-        "station_id": "inte",
+        "id": 5,
+        "station_id": 5,
         "name": "Radio Internationale الإذاعــة الدولية",
         "slug": "103-7",
         "order": 1,
@@ -83,8 +83,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "qran",
-        "station_id": "qran",
+        "id": 6,
+        "station_id": 6,
         "name": "Radio Quoran إذاعــة القرآن الكريم",
         "slug": "103-7",
         "order": 1,
@@ -98,8 +98,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "cora",
-        "station_id": "cora",
+        "id": 7,
+        "station_id": 7,
         "name": "Radio Quoran Kareem إذاعــة القرآن الكريم",
         "slug": "103-7",
         "order": 1,
@@ -113,8 +113,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "corr",
-        "station_id": "corr",
+        "id": 8,
+        "station_id": 8,
         "name": "MP3 Quran المكتبة الصوتية للقرآن الكريم",
         "slug": "103-7",
         "order": 1,
@@ -128,8 +128,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "qorr",
-        "station_id": "qorr",
+        "id": 9,
+        "station_id": 9,
         "name": "93.1 إذاعــة القرآن الكريم",
         "slug": "103-7",
         "order": 1,
@@ -143,8 +143,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "qooo",
-        "station_id": "qooo",
+        "id": 10,
+        "station_id": 10,
         "name": "Radio Quoran القرآن الكريم",
         "slug": "103-7",
         "order": 1,
@@ -158,8 +158,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "cult",
-        "station_id": "cult",
+        "id": 11,
+        "station_id": 11,
         "name": "Radio culture الإذاعــة الثقافية",
         "slug": "103-7",
         "order": 1,
@@ -173,8 +173,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "bahd",
-        "station_id": "bahd",
+        "id": 12,
+        "station_id": 12,
         "name": "Radio Bahdja إذاعــة البهجة",
         "slug": "103-7",
         "order": 1,
@@ -188,8 +188,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "orie",
-        "station_id": "orie",
+        "id": 13,
+        "station_id": 13,
         "name": "Radio orientale إذاعــة الشرقي",
         "slug": "103-7",
         "order": 1,
@@ -203,8 +203,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "magh",
-        "station_id": "magh",
+        "id": 14,
+        "station_id": 14,
         "name": "Radio 100% إذاعــة 100% مغاربة",
         "slug": "103-7",
         "order": 1,
@@ -218,8 +218,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "tara",
-        "station_id": "tara",
+        "id": 15,
+        "station_id": 15,
         "name": "Radio tarab  إذاعــة الطرب",
         "slug": "103-7",
         "order": 1,
@@ -233,8 +233,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "dzai",
-        "station_id": "dzai",
+        "id": 16,
+        "station_id": 16,
         "name": "Radio dzair  إذاعــة دزاير",
         "slug": "103-7",
         "order": 1,
@@ -248,8 +248,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "chaa",
-        "station_id": "chaa",
+        "id": 17,
+        "station_id": 17,
         "name": "Radio chaabi  إذاعــة الشعبي",
         "slug": "103-7",
         "order": 1,
@@ -263,8 +263,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "aure",
-        "station_id": "aure",
+        "id": 18,
+        "station_id": 18,
         "name": "Radio aures  إذاعــة الشاوي",
         "slug": "103-7",
         "order": 1,
@@ -278,8 +278,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "anda",
-        "station_id": "anda",
+        "id": 19,
+        "station_id": 19,
         "name": "Radio andalos إذاعــة الأندلسي",
         "slug": "103-7",
         "order": 1,
@@ -293,8 +293,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "saha",
-        "station_id": "saha",
+        "id": 20,
+        "station_id": 20,
         "name": "Radio sahara  إذاعــة الصحراوي",
         "slug": "103-7",
         "order": 1,
@@ -308,8 +308,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "izur",
-        "station_id": "izur",
+        "id": 21,
+        "station_id": 21,
         "name": "Radio izuran إذاعــة القبائلي",
         "slug": "103-7",
         "order": 1,
@@ -323,8 +323,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "jowr",
-        "station_id": "jowr",
+        "id": 22,
+        "station_id": 22,
         "name": "Radio jow rai  إذاعــة جو راي",
         "slug": "103-7",
         "order": 1,
@@ -338,8 +338,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "joww",
-        "station_id": "joww",
+        "id": 23,
+        "station_id": 23,
         "name": "Radio jow   إذاعــة جــو",
         "slug": "103-7",
         "order": 1,
@@ -353,8 +353,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "jile",
-        "station_id": "jile",
+        "id": 24,
+        "station_id": 24,
         "name": "Radio jile fm إذاعــة جيل",
         "slug": "103-7",
         "order": 1,
@@ -368,8 +368,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "afri",
-        "station_id": "afri",
+        "id": 25,
+        "station_id": 25,
         "name": "Radio Africa Hits إذاعــة أفريكا",
         "slug": "103-7",
         "order": 1,
@@ -383,8 +383,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "hawa",
-        "station_id": "hawa",
+        "id": 26,
+        "station_id": 26,
         "name": "Radio hawana إذاعــة هوانا",
         "slug": "103-7",
         "order": 1,
@@ -398,8 +398,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "rrrr",
-        "station_id": "rrrr",
+        "id": 27,
+        "station_id": 27,
         "name": "Radio R إذاعــة أر",
         "slug": "103-7",
         "order": 1,
@@ -413,8 +413,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "hits1",
-        "station_id": "hits1",
+        "id": 28,
+        "station_id": 28,
         "name": "Radio Hits 1 إذاعــة هيتس",
         "slug": "103-7",
         "order": 1,
@@ -428,8 +428,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "marina",
-        "station_id": "marina",
+        "id": 29,
+        "station_id": 29,
         "name": "Radio MARINA Fm إذاعــة مرينا",
         "slug": "103-7",
         "order": 1,
@@ -443,8 +443,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "alarabiya",
-        "station_id": "alarabiya",
+        "id": 30,
+        "station_id": 30,
         "name": "Radio alarabiya Fm إذاعــة العربية",
         "slug": "103-7",
         "order": 1,
@@ -458,8 +458,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "aljazeera",
-        "station_id": "aljazeera",
+        "id": 31,
+        "station_id": 31,
         "name": "Radio Aljazeera إذاعــة الجزيرة",
         "slug": "103-7",
         "order": 1,
@@ -473,8 +473,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "asharq",
-        "station_id": "asharq",
+        "id": 32,
+        "station_id": 32,
         "name": "Radio asharq إذاعــة الشرق",
         "slug": "103-7",
         "order": 1,
@@ -488,8 +488,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "montecarlo",
-        "station_id": "montecarlo",
+        "id": 33,
+        "station_id": 33,
         "name": "Radio Montecarlo إذاعــة مونت كارلو",
         "slug": "103-7",
         "order": 1,
@@ -503,8 +503,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "jeddah",
-        "station_id": "jeddah",
+        "id": 34,
+        "station_id": 34,
         "name": "Radio jeddah إذاعــة جدة",
         "slug": "103-7",
         "order": 1,
@@ -518,8 +518,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "sunna",
-        "station_id": "sunna",
+        "id": 35,
+        "station_id": 35,
         "name": "Radio Sunna إذاعــة السنة",
         "slug": "103-7",
         "order": 1,
@@ -533,8 +533,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "arabian",
-        "station_id": "arabian",
+        "id": 36,
+        "station_id": 36,
         "name": "Radio Arabian Love إذاعــة عربيان  ",
         "slug": "103-7",
         "order": 1,
@@ -548,8 +548,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "dahab",
-        "station_id": "dahab",
+        "id": 37,
+        "station_id": 37,
         "name": "Radio Dahab  راديو دهب",
         "slug": "103-7",
         "order": 1,
@@ -563,8 +563,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "husna",
-        "station_id": "husna",
+        "id": 38,
+        "station_id": 38,
         "name": "Radio Husna إذاعــة حسنى",
         "slug": "103-7",
         "order": 1,
@@ -578,8 +578,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "yaqeen",
-        "station_id": "yaqeen",
+        "id": 39,
+        "station_id": 39,
         "name": "Radio Yaqeen FM  إذاعــة يقين",
         "slug": "103-7",
         "order": 1,
@@ -593,8 +593,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "allzic",
-        "station_id": "allzic",
+        "id": 40,
+        "station_id": 40,
         "name": "Radio Allzic إذاعــة أليز",
         "slug": "103-7",
         "order": 1,
@@ -608,8 +608,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "amrdiab",
-        "station_id": "amrdiab",
+        "id": 41,
+        "station_id": 41,
         "name": "Radio AMR DIAB FM إذاعــة عمرو ذياب",
         "slug": "103-7",
         "order": 1,
@@ -623,8 +623,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "beur",
-        "station_id": "beur",
+        "id": 42,
+        "station_id": 42,
         "name": "Radio beur إذاعــة بور",
         "slug": "103-7",
         "order": 1,
@@ -638,8 +638,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "boll",
-        "station_id": "boll",
+        "id": 43,
+        "station_id": 43,
         "name": "Radio bollywood إذاعــة بوليود",
         "slug": "103-7",
         "order": 1,
@@ -653,8 +653,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "hawa",
-        "station_id": "hawa",
+        "id": 44,
+        "station_id": 44,
         "name": "Radio Hits 1 إذاعــة هيتس",
         "slug": "103-7",
         "order": 1,
@@ -668,8 +668,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra01",
-        "station_id": "ra01",
+        "id": 45,
+        "station_id": 45,
         "name": "Radio adrar إذاعــة أدرار",
         "slug": "103-7",
         "order": 1,
@@ -683,8 +683,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra02",
-        "station_id": "ra02",
+        "id": 46,
+        "station_id": 46,
         "name": "Radio Chlef إذاعــة الشلف",
         "slug": "103-7",
         "order": 1,
@@ -698,8 +698,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra03",
-        "station_id": "ra03",
+        "id": 47,
+        "station_id": 47,
         "name": "Radio Laghouat إذاعــة الأغواط",
         "slug": "103-7",
         "order": 1,
@@ -713,8 +713,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra04",
-        "station_id": "ra04",
+        "id": 48,
+        "station_id": 48,
         "name": "Radio OumBouaghi إذاعــة أم البواقي",
         "slug": "103-7",
         "order": 1,
@@ -728,8 +728,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra05",
-        "station_id": "ra05",
+        "id": 49,
+        "station_id": 49,
         "name": "Radio Batna إذاعــة باتنة",
         "slug": "103-7",
         "order": 1,
@@ -743,8 +743,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra06",
-        "station_id": "ra06",
+        "id": 50,
+        "station_id": 50,
         "name": "Radio Bejaia إذاعــة بجاية",
         "slug": "103-7",
         "order": 1,
@@ -758,8 +758,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra07",
-        "station_id": "ra07",
+        "id": 51,
+        "station_id": 51,
         "name": "Radio Biskra إذاعــة بسكرة",
         "slug": "103-7",
         "order": 1,
@@ -773,8 +773,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra08",
-        "station_id": "ra08",
+        "id": 52,
+        "station_id": 52,
         "name": "Radio Bechar إذاعــة بشار",
         "slug": "103-7",
         "order": 1,
@@ -788,8 +788,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra09",
-        "station_id": "ra09",
+        "id": 53,
+        "station_id": 53,
         "name": "Radio Blida إذاعــة البليدة",
         "slug": "103-7",
         "order": 1,
@@ -803,8 +803,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra10",
-        "station_id": "ra10",
+        "id": 54,
+        "station_id": 54,
         "name": "Radio Bouira إذاعــة البويرة",
         "slug": "103-7",
         "order": 1,
@@ -818,8 +818,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra11",
-        "station_id": "ra11",
+        "id": 55,
+        "station_id": 55,
         "name": "Radio Tamanrasset إذاعــة تمنراست",
         "slug": "103-7",
         "order": 1,
@@ -833,8 +833,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra12",
-        "station_id": "ra12",
+        "id": 56,
+        "station_id": 56,
         "name": "Radio Tebessa إذاعــة تبسة",
         "slug": "103-7",
         "order": 1,
@@ -848,8 +848,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra13",
-        "station_id": "ra13",
+        "id": 57,
+        "station_id": 57,
         "name": "Radio Tlemcen إذاعــة تلمسان",
         "slug": "103-7",
         "order": 1,
@@ -863,8 +863,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra14",
-        "station_id": "ra14",
+        "id": 58,
+        "station_id": 58,
         "name": "Radio Tiaret إذاعــة تيارت",
         "slug": "103-7",
         "order": 1,
@@ -878,8 +878,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra15",
-        "station_id": "ra15",
+        "id": 59,
+        "station_id": 59,
         "name": "Radio TiziOuzou إذاعــة تيزي وزو",
         "slug": "103-7",
         "order": 1,
@@ -893,8 +893,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra16",
-        "station_id": "ra16",
+        "id": 60,
+        "station_id": 60,
         "name": "Radio dzair إذاعــة الجزائر",
         "slug": "103-7",
         "order": 1,
@@ -908,8 +908,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra17",
-        "station_id": "ra17",
+        "id": 61,
+        "station_id": 61,
         "name": "Radio Djelfa إذاعــة الجلفة",
         "slug": "103-7",
         "order": 1,
@@ -923,8 +923,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra18",
-        "station_id": "ra18",
+        "id": 62,
+        "station_id": 62,
         "name": "Radio Jijel إذاعــة جيجل",
         "slug": "103-7",
         "order": 1,
@@ -938,8 +938,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra19",
-        "station_id": "ra19",
+        "id": 63,
+        "station_id": 63,
         "name": "Radio Setif إذاعــة سطيف",
         "slug": "103-7",
         "order": 1,
@@ -953,8 +953,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra20",
-        "station_id": "ra20",
+        "id": 64,
+        "station_id": 64,
         "name": "Radio Saida إذاعــة سعيدة",
         "slug": "103-7",
         "order": 1,
@@ -968,8 +968,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra21",
-        "station_id": "ra21",
+        "id": 65,
+        "station_id": 65,
         "name": "Radio Skikda إذاعــة سكيكدة",
         "slug": "103-7",
         "order": 1,
@@ -983,8 +983,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra22",
-        "station_id": "ra22",
+        "id": 66,
+        "station_id": 66,
         "name": "Radio SidiBelabes إذاعــة بلعباس",
         "slug": "103-7",
         "order": 1,
@@ -998,8 +998,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra23",
-        "station_id": "ra23",
+        "id": 67,
+        "station_id": 67,
         "name": "Radio Annaba إذاعــة عنابة",
         "slug": "103-7",
         "order": 1,
@@ -1013,8 +1013,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra24",
-        "station_id": "ra24",
+        "id": 68,
+        "station_id": 68,
         "name": "Radio Guelma إذاعــة قالمة",
         "slug": "103-7",
         "order": 1,
@@ -1028,8 +1028,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra25",
-        "station_id": "ra25",
+        "id": 69,
+        "station_id": 69,
         "name": "Radio Constantine إذاعــة قسنطينة",
         "slug": "103-7",
         "order": 1,
@@ -1043,8 +1043,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra26",
-        "station_id": "ra26",
+        "id": 70,
+        "station_id": 70,
         "name": "Radio Medea إذاعــة المدية",
         "slug": "103-7",
         "order": 1,
@@ -1058,8 +1058,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra27",
-        "station_id": "ra27",
+        "id": 71,
+        "station_id": 71,
         "name": "Radio Mostaganem إذاعــة مستغانم",
         "slug": "103-7",
         "order": 1,
@@ -1073,8 +1073,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra28",
-        "station_id": "ra28",
+        "id": 72,
+        "station_id": 72,
         "name": "Radio Msila إذاعــة المسيلة",
         "slug": "103-7",
         "order": 1,
@@ -1088,8 +1088,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra29",
-        "station_id": "ra29",
+        "id": 73,
+        "station_id": 73,
         "name": "Radio Mascara إذاعــة معسكر",
         "slug": "103-7",
         "order": 1,
@@ -1103,8 +1103,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra30",
-        "station_id": "ra30",
+        "id": 74,
+        "station_id": 74,
         "name": "Radio Ouargla إذاعــة ورقلة",
         "slug": "103-7",
         "order": 1,
@@ -1118,8 +1118,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra31",
-        "station_id": "ra31",
+        "id": 75,
+        "station_id": 75,
         "name": "Radio Oran إذاعــة وهران",
         "slug": "103-7",
         "order": 1,
@@ -1133,8 +1133,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra32",
-        "station_id": "ra32",
+        "id": 76,
+        "station_id": 76,
         "name": "Radio ElBayedh إذاعــة البيض",
         "slug": "103-7",
         "order": 1,
@@ -1148,8 +1148,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra33",
-        "station_id": "ra33",
+        "id": 77,
+        "station_id": 77,
         "name": "Radio Illizi إذاعــة إيليزي",
         "slug": "103-7",
         "order": 1,
@@ -1163,8 +1163,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra34",
-        "station_id": "ra34",
+        "id": 78,
+        "station_id": 78,
         "name": "Radio BordjBouArreridj إذاعــة برج بوعريريج",
         "slug": "103-7",
         "order": 1,
@@ -1178,8 +1178,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra35",
-        "station_id": "ra35",
+        "id": 79,
+        "station_id": 79,
         "name": "Radio Boumerdes إذاعــة بومرداس",
         "slug": "103-7",
         "order": 1,
@@ -1193,8 +1193,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra36",
-        "station_id": "ra36",
+        "id": 80,
+        "station_id": 80,
         "name": "Radio Taref إذاعــة الطارف",
         "slug": "103-7",
         "order": 1,
@@ -1208,8 +1208,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra37",
-        "station_id": "ra37",
+        "id": 81,
+        "station_id": 81,
         "name": "Radio Tindouf إذاعــة تندوف",
         "slug": "103-7",
         "order": 1,
@@ -1223,8 +1223,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra38",
-        "station_id": "ra38",
+        "id": 82,
+        "station_id": 82,
         "name": "Radio Tissemssilt إذاعــة تيسمسيلت",
         "slug": "103-7",
         "order": 1,
@@ -1238,8 +1238,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra39",
-        "station_id": "ra39",
+        "id": 83,
+        "station_id": 83,
         "name": "Radio ouedSouf إذاعــة واد سوف",
         "slug": "103-7",
         "order": 1,
@@ -1253,8 +1253,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra40",
-        "station_id": "ra40",
+        "id": 84,
+        "station_id": 84,
         "name": "Radio Khenchela إذاعــة خنشلة",
         "slug": "103-7",
         "order": 1,
@@ -1268,8 +1268,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra41",
-        "station_id": "ra41",
+        "id": 85,
+        "station_id": 85,
         "name": "Radio SoukAhras إذاعــة سوق أهراس",
         "slug": "103-7",
         "order": 1,
@@ -1283,8 +1283,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra42",
-        "station_id": "ra42",
+        "id": 86,
+        "station_id": 86,
         "name": "Radio Tipaza إذاعــة تيبازة",
         "slug": "103-7",
         "order": 1,
@@ -1298,8 +1298,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra43",
-        "station_id": "ra43",
+        "id": 87,
+        "station_id": 87,
         "name": "Radio Mila إذاعــة ميلة",
         "slug": "103-7",
         "order": 1,
@@ -1313,8 +1313,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra44",
-        "station_id": "ra44",
+        "id": 88,
+        "station_id": 88,
         "name": "Radio AinDefla إذاعــة عين الدفلى",
         "slug": "103-7",
         "order": 1,
@@ -1328,8 +1328,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra45",
-        "station_id": "ra45",
+        "id": 89,
+        "station_id": 89,
         "name": "Radio Naama إذاعــة النعامة",
         "slug": "103-7",
         "order": 1,
@@ -1343,8 +1343,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra46",
-        "station_id": "ra46",
+        "id": 90,
+        "station_id": 90,
         "name": "Radio Timouchent إذاعــة تموشنت",
         "slug": "103-7",
         "order": 1,
@@ -1358,8 +1358,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra47",
-        "station_id": "ra47",
+        "id": 91,
+        "station_id": 91,
         "name": "Radio Ghardaia إذاعــة غرداية",
         "slug": "103-7",
         "order": 1,
@@ -1373,8 +1373,8 @@
         "updated_at": "2025-10-22T18:47:06.000000Z"
       },
       {
-        "id": "ra48",
-        "station_id": "ra48",
+        "id": 92,
+        "station_id": 92,
         "name": "Radio Relizan إذاعــة غليزان",
         "slug": "103-7",
         "order": 1,
